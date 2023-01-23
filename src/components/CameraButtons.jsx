@@ -1,20 +1,23 @@
 import state from "../State";
 const CameraButtons = () => {
     const sets ={
+      // roadster
         1: {
             cameraPosition: [9,2,4],
-            target: [4,0,0]
+            target: [4,0,0],
+            name: "Object_34"
         },
+        // m3_model
         2: {
             cameraPosition: [1,2,5],
-            target: [-4,0,0]
+            target: [-4,0,0],
+            name: "Object_2"
         }
     }
     const handleClick = num =>{
         state.cameraPosition.set(...(sets[num].cameraPosition))
-        // alert(state.cameraPosition)
-
         state.target.set(...(sets[num].target))
+        state.activeMeshName = sets[num].name
         state.shouldUpdate = true
     }
   return (

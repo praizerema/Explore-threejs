@@ -1,0 +1,11 @@
+Model Information:
+* title:	robot spider
+* source:	https://sketchfab.com/3d-models/robot-spider-75f5caf0c874461bb0c8f8ba1603f790
+* author:	victory_mirosya (https://sketchfab.com/victory_mirosya)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "robot spider" (https://sketchfab.com/3d-models/robot-spider-75f5caf0c874461bb0c8f8ba1603f790) by victory_mirosya (https://sketchfab.com/victory_mirosya) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

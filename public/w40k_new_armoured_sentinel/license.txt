@@ -1,0 +1,11 @@
+Model Information:
+* title:	w40k new armoured sentinel
+* source:	https://sketchfab.com/3d-models/w40k-new-armoured-sentinel-6f67036cb4e840259697ddd25b04c90a
+* author:	guillaume bolis (https://sketchfab.com/guillaume.bolis)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "w40k new armoured sentinel" (https://sketchfab.com/3d-models/w40k-new-armoured-sentinel-6f67036cb4e840259697ddd25b04c90a) by guillaume bolis (https://sketchfab.com/guillaume.bolis) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
