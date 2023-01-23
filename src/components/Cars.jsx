@@ -49,13 +49,13 @@ const Cars = () =>{
           <group position={[-7, 0.2, 0]}>
              <Model
             path="/lady-standing/scene.gltf"
-            scale={[0.2,0.2,0.2]}
+            scale={[0.15,0.15,0.15]}
           />
           </group>
           <group position={[-8.5, 0.2, 0]} rotation={[0, Math.PI*0.4, 0]}>
            <Model
             path="/freefire_new_female_3d_model_by_pace_gaming (1)/scene.gltf"
-            scale={[0.65,0.65,0.65]}
+            scale={[0.5,0.5,0.5]}
           />
           </group>
           <group position={[8,0.3,-7.1]}>
