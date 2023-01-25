@@ -2,7 +2,7 @@
   "homepage": "https://github.io/praizerema/explore-threejs",
   "name": "explore-threejs",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "dependencies": {
     "@react-three/cannon": "^6.5.2",
     "@react-three/fiber": "^8.9.1",
