@@ -4,9 +4,8 @@ import { GLTFLoader } from "three/examples/jsm/loaders/GLTFLoader";
 const Model = props =>{
 const model = useLoader(
     GLTFLoader,
-    process.env.PUBLIC_URL + props.path
+    props.path
 )
-console.log(props.path, model)
 // Setup animation for animated models
 let mixer 
 if(model.animations.length > 0){
