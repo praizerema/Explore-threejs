@@ -1,0 +1,11 @@
+Model Information:
+* title:	Unicycle
+* source:	https://sketchfab.com/3d-models/unicycle-675831d99e204c89b17df9381307384d
+* author:	Sim387 (https://sketchfab.com/350rdlc.sl)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Unicycle" (https://sketchfab.com/3d-models/unicycle-675831d99e204c89b17df9381307384d) by Sim387 (https://sketchfab.com/350rdlc.sl) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

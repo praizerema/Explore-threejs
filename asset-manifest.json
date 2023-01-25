@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/praizerema/explore-threejs/static/css/main.892eca6d.css",
+    "main.js": "/praizerema/explore-threejs/static/js/main.714267d0.js",
+    "static/js/787.75108e3e.chunk.js": "/praizerema/explore-threejs/static/js/787.75108e3e.chunk.js",
+    "index.html": "/praizerema/explore-threejs/index.html",
+    "main.892eca6d.css.map": "/praizerema/explore-threejs/static/css/main.892eca6d.css.map",
+    "main.714267d0.js.map": "/praizerema/explore-threejs/static/js/main.714267d0.js.map",
+    "787.75108e3e.chunk.js.map": "/praizerema/explore-threejs/static/js/787.75108e3e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.892eca6d.css",
+    "static/js/main.714267d0.js"
+  ]
+}

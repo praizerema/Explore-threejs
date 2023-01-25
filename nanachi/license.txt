@@ -1,0 +1,11 @@
+Model Information:
+* title:	Nanachi
+* source:	https://sketchfab.com/3d-models/nanachi-efafd384a7084a429a4918b346abf5a7
+* author:	enotsteam5425 (https://sketchfab.com/enotsteam5425)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Nanachi" (https://sketchfab.com/3d-models/nanachi-efafd384a7084a429a4918b346abf5a7) by enotsteam5425 (https://sketchfab.com/enotsteam5425) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
