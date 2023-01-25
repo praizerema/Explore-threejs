@@ -1,7 +1,7 @@
 import { useFrame } from "@react-three/fiber";
 import state from "../State";
-import * as THREE from "three";
-const CameraControls = ({}) => {
+
+const CameraControls = () => {
   useFrame(({ camera, scene }) => {
     if(state.activeMesh.name !== state.activeMeshName){
       state.activeMesh = scene.getObjectByName(state.activeMeshName) || {}

@@ -6,6 +6,7 @@ const Bulb = (props) => {
   useEffect(()=>{
 if(scene.lights) scene.lights.push(ref)
 else scene.lights = [ref]
+  // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [])
     return (
       <mesh {...props} ref={ref}>

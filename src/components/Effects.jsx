@@ -1,4 +1,4 @@
-import { EffectComposer, DepthOfField, Bloom, Noise, Vignette, GodRays } from '@react-three/postprocessing'
+import { EffectComposer, DepthOfField, GodRays } from '@react-three/postprocessing'
 import { useEffect, useState } from 'react';
 import { useThree } from '@react-three/fiber';
 const Effects = () =>{

@@ -31,6 +31,7 @@ setChildren(groupRef.current.children)
         })
 
 
+    // eslint-disable-next-line react-hooks/exhaustive-deps
     },[children])
     return(
 <group ref = {groupRef}>
